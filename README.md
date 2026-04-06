@@ -1,0 +1,2 @@
+# zmain
+упрощённая копия mainkraft
